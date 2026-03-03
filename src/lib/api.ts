@@ -1,4 +1,4 @@
-const API_BASE = "https://backend-inx-6.onrender.com";
+const API_BASE = "https://backend-inx-7.onrender.com";
 
 interface RequestOptions {
   method?: string;
