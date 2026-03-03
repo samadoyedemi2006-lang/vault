@@ -7,9 +7,9 @@ import { motion } from "framer-motion";
 import { Loader2, Banknote, Copy, Check } from "lucide-react";
 
 const bankDetails = {
-  bankName: "GTBank",
-  accountNumber: "0123456789",
-  accountName: "VaultGrow Limited",
+  bankName: "PAYSTACK-TITAN",
+  accountNumber: "9750476292",
+  accountName: "Chippercash/Abdulsamad",
 };
 
 export default function PaymentPage() {
