@@ -67,7 +67,7 @@ export default function RegisterPage() {
 
         <form onSubmit={handleSubmit} className="gradient-card border border-border rounded-2xl p-8 shadow-card space-y-4">
           <div className="glass-card rounded-lg p-3 text-center mb-2">
-            <p className="text-sm text-primary font-medium">₦1000 welcome bonus will be credited to your wallet after registration</p>
+            <p className="text-sm text-primary font-medium">₦700 welcome bonus will be credited to your wallet after registration</p>
           </div>
 
           <input className={inputClass} placeholder="Full Name" required value={form.fullName} onChange={(e) => setForm({ ...form, fullName: e.target.value })} />
